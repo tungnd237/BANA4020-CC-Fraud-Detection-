@@ -17,6 +17,7 @@ The project consists of four Jupyter Notebook files:
 3. **Predict_without_handle_imbalance.ipynb**: 
    - Focuses on model prediction without applying any resampling techniques to handle class imbalance.
    - Serves as a comparison to understand the impact of not addressing class imbalance.
+   - This is just part of the first file, without the EDA.
 
 4. **Undersampling.ipynb**: 
    - Applies undersampling techniques to balance the dataset.
